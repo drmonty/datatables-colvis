@@ -7,6 +7,7 @@
         "name": "Allan Jardine",
         "url": "http://sprymedia.co.uk"
     },
+    "license": "MIT",
     "main": "js/dataTables.colVis.js",
     "repository": {
         "type": "git",
